@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /cgi-bin
+Disallow: /.git
+Disallow: /.well-known
+Disallow: /?C=M;O=D
+Disallow: /?C=M;O=A
+Disallow: /?C=D;O=A
+Disallow: /?C=S;O=A
+Disallow: /http://localhost:4000/
+Disallow: /http://localhost:4000/test.html
+Host: http://localhost:4000
+Sitemap: http://localhost:4000/sitemap.xml
