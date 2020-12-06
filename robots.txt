@@ -6,7 +6,7 @@ Disallow: /?C=M;O=D
 Disallow: /?C=M;O=A
 Disallow: /?C=D;O=A
 Disallow: /?C=S;O=A
-Disallow: /http://localhost:4000/
-Disallow: /http://localhost:4000/test.html
-Host: http://localhost:4000
-Sitemap: http://localhost:4000/sitemap.xml
+Disallow: /https://webzwezda.github.io/omg-webmaster/
+Disallow: /https://webzwezda.github.io/omg-webmaster/test.html
+Host: https://webzwezda.github.io/omg-webmaster
+Sitemap: https://webzwezda.github.io/omg-webmaster/sitemap.xml
